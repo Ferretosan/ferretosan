@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://voxelcube1.github.io/ferretosan-skinrender.png" align="center" height="300">
+# <img src="https://voxelcube1.github.io/ferretosan-skinrender.png" align="center" height="300">
 
-<hr>
-
-I'm Ferret, a passionate developer interested in full-stack development, cloud computing, AI/ML, and all things tech.
+I'm Ferret, a passionate developer interested in full-stack development, anime and idk.
 
 🌱 Currently exploring **Electron**.
 
@@ -12,8 +10,7 @@ I'm Ferret, a passionate developer interested in full-stack development, cloud c
 
 💬 Ask me about **Python/HTML**.
 
-
-<hr>
+#  
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,ableton,raspberrypi,arduino,apple,bash,blender,cpp,linux,p5js,powershell,robloxstudio)](https://skillicons.dev)
 
