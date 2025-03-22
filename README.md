@@ -1,7 +1,5 @@
 <div align="center">
 
-# <img src="https://voxelcube1.github.io/ferretosan-skinrender.png" align="center" width="600">
-
 I'm Ferret, a passionate developer interested in full-stack development, anime and idk.
 
 🌱 Currently exploring **Electron**.
