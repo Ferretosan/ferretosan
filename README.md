@@ -1,4 +1,4 @@
-# 😭 Ferret
+# Ferret ♥︎
 
 I'm Ferret, a passionate developer interested in full-stack development, anime and AI.
 
