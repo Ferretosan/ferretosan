@@ -6,6 +6,8 @@ You may know me for my YouTube channel, Ferretosan - but you probably know me as
 
 Make sure to check out VoxelCube and Cosmos Entertainment! And btw, *I'm always watching. You need to make sure you do, otherwise things might happen.*
 
+## Goals and Stuff
+
 🌱 Currently exploring **Pure HTML/CSS/JS**.
 
 🔭 Working on **FileBackupTool**.
