@@ -1,5 +1,7 @@
 # Ferret ♥︎
 
+> It works on my PC
+
 I'm Ferret, a passionate developer interested in full-stack development, anime and AI.
 
 You may know me for my YouTube channel, Ferretosan - but you probably know me as the founder of VoxelCube and some of my popular projects.
