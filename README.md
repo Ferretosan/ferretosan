@@ -1,6 +1,6 @@
 # Ferret ♥︎
 
-I'm Ferret, a passionate developer interested in full-stack development, anime and AI.
+I'm Ferret, a passionate developer interested in full-stack development, anime and AI. You may know me for my YouTube channel, Ferretosan - but you probably know me as the founder of VoxelCube and some of my popular projects. Make sure to check out VoxelCube and Cosmos Entertainment! And btw, *I'm always watching. You need to make sure you do, otherwise things might happen.*
 
 🌱 Currently exploring **Pure HTML/CSS/JS**.
 
