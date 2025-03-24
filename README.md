@@ -5,8 +5,6 @@
 <a href="https://duckduckgo.com/?t=ffab&q=%40ferretosan+on+discord+%3A)&ia=web"><img src="https://voxelcube1.github.io/media/social/dc-icon.png" alt="Discord" style="width: 50px; height: 50px;"></a>
 <a href="https://namemc.com/profile/Ferretosan.1"><img src="https://voxelcube1.github.io/media/social/mc-icon.png" alt="nameMC" style="width: 50px; height: 50px;"></a>
 
-> It works on my PC
-
 I'm Ferret, a passionate developer interested in full-stack development, anime and AI.
 
 You may know me for my YouTube channel, Ferretosan - but you probably know me as the founder of VoxelCube and some of my popular projects.
