@@ -1,5 +1,10 @@
 # Ferret ♥︎
 
+<a href="https://youtube.com/@ferretosan"><img src="https://voxelcube1.github.io/media/social/yt-icon.png" alt="YouTube" style="width: 50px; height: 50px;"></a>
+<a href="https://bsky.app/profile/ferret.nekoweb.org"><img src="https://voxelcube1.github.io/media/social/bs-icon.png" alt="Bsky" style="width: 50px; height: 50px;"></a>
+<a href="https://duckduckgo.com/?t=ffab&q=%40ferretosan+on+discord+%3A)&ia=web"><img src="https://voxelcube1.github.io/media/social/dc-icon.png" alt="Discord" style="width: 50px; height: 50px;"></a>
+<a href="https://namemc.com/profile/Ferretosan.1"><img src="https://voxelcube1.github.io/media/social/mc-icon.png" alt="nameMC" style="width: 50px; height: 50px;"></a>
+
 > It works on my PC
 
 I'm Ferret, a passionate developer interested in full-stack development, anime and AI.
