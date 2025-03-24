@@ -25,3 +25,9 @@ Make sure to check out VoxelCube and Cosmos Entertainment! And btw, *I'm always 
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=Ferretosan&theme=catppuccin_mocha&hide_border=true)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ferretosan&theme=catppuccin_mocha&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📎 Other Things
+
+- [My old GitHub account (forgor passowrd and email is long lost)](https://github.com/technoferret303)
+- [Some crappy old website](https://ferreto.w3spaces.com/)
+- VoxelCube was originally called Ferreto Studios
