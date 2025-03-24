@@ -23,6 +23,5 @@ Make sure to check out VoxelCube and Cosmos Entertainment! And btw, *I'm always 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,ableton,raspberrypi,arduino,apple,bash,blender,cpp,linux,p5js,powershell,robloxstudio)](https://skillicons.dev)
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ferretosan&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://streak-stats.demolab.com?user=Ferretosan&theme=catppuccin_mocha&hide_border=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ferretosan&theme=catppuccin_mocha&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
