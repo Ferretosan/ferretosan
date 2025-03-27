@@ -19,12 +19,18 @@ Make sure to check out VoxelCube and Cosmos Entertainment! And btw, *I'm always 
 
 💬 Ask me about **Python/HTML**.
 
-## 📊 Stats
+## 💻 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,ableton,raspberrypi,arduino,apple,bash,blender,cpp,linux,p5js,powershell,robloxstudio)](https://skillicons.dev)
 
-![GitHub Stats](https://streak-stats.demolab.com?user=Ferretosan&theme=tokyonight&hide_border=true)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ferretosan&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 Stats
+
+![Ferretosan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ferretosan&show_icons=true&theme=radical&icon_color=ff79c6)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferretosan&layout=compact&theme=radical)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ferretosan&theme=radical&no-frame=true&row=1)
+
 
 ## 📎 Other Things
 
