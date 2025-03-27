@@ -25,11 +25,11 @@ Make sure to check out VoxelCube and Cosmos Entertainment! And btw, *I'm always 
 
 ## 📊 Stats
 
-![Ferretosan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ferretosan&show_icons=true&theme=radical&icon_color=ff79c6)
+![Ferretosan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ferretosan&show_icons=true&theme=tokyonight&icon_color=ff79c6)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferretosan&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferretosan&layout=compact&theme=tokyonight)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ferretosan&theme=radical&no-frame=true&row=1)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ferretosan&theme=tokyonight&no-frame=true&row=1)
 
 
 ## 📎 Other Things
