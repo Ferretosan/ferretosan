@@ -1,4 +1,4 @@
-# Ferret ♥︎
+# 👤 About
 
 <a href="https://youtube.com/@ferretosan"><img src="https://voxelcube1.github.io/media/social/yt-icon.png" alt="YouTube" style="width: 50px; height: 50px;"></a>
 <a href="https://bsky.app/profile/ferret.nekoweb.org"><img src="https://voxelcube1.github.io/media/social/bs-icon.png" alt="Bsky" style="width: 50px; height: 50px;"></a>
@@ -11,7 +11,7 @@ You may know me for my YouTube channel, Ferretosan - but you probably know me as
 
 Make sure to check out VoxelCube and Cosmos Entertainment! And btw, *I'm always watching. You need to make sure you do, otherwise things might happen.*
 
-## 🪴 Goals
+# 🪴 Goals
 
 🌱 Currently exploring **Pure HTML/CSS/JS**.
 
@@ -19,14 +19,14 @@ Make sure to check out VoxelCube and Cosmos Entertainment! And btw, *I'm always 
 
 💬 Ask me about **Python/HTML**.
 
-## 📊 Stats
+# 📊 Stats
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,ableton,raspberrypi,arduino,apple,bash,blender,cpp,linux,p5js,powershell,robloxstudio)](https://skillicons.dev)
 
 ![Ferretosan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ferretosan&show_icons=true&theme=tokyonight&icon_color=ff79c6)
 
 
-## 📎 Other Things
+# 📎 Other Things
 
 - [My old GitHub account (forgor passowrd and email is long lost)](https://github.com/technoferret303)
 - [Some crappy old website that I made (there used to be a really cool one but sadly it got deleted)](https://ferreto.w3spaces.com/)
