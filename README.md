@@ -8,6 +8,4 @@ Make sure to check out VoxelCube and Cosmos Entertainment! And btw, *I'm always 
 
 ![Ferretosan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ferretosan&show_icons=true&theme=tokyonight&icon_color=ff79c6)
 
-
-
 > watch out, im coming for u
