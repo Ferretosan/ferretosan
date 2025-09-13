@@ -5,7 +5,6 @@
 ██╔══╝  ██╔══╝  ██╔══██╗██╔══██╗██╔══╝     ██║   ██║   ██║╚════██║██╔══██║██║╚██╗██║╚═╝
 ██║     ███████╗██║  ██║██║  ██║███████╗   ██║   ╚██████╔╝███████║██║  ██║██║ ╚████║██╗
 ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝
-
 ```
 [![My Skills](https://skillicons.dev/icons?i=ableton,apple,bash,discord,css,github,html,javascript,vscode,ps,pr)](https://skill-icons-builder.vercel.app/)
 
