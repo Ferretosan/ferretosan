@@ -1,5 +1,12 @@
-# *ferretosan* | he/him | australian | catppuccin
+```
+███████╗███████╗██████╗ ██████╗ ███████╗████████╗ ██████╗ ███████╗ █████╗ ███╗   ██╗██╗
+██╔════╝██╔════╝██╔══██╗██╔══██╗██╔════╝╚══██╔══╝██╔═══██╗██╔════╝██╔══██╗████╗  ██║██║
+█████╗  █████╗  ██████╔╝██████╔╝█████╗     ██║   ██║   ██║███████╗███████║██╔██╗ ██║██║
+██╔══╝  ██╔══╝  ██╔══██╗██╔══██╗██╔══╝     ██║   ██║   ██║╚════██║██╔══██║██║╚██╗██║╚═╝
+██║     ███████╗██║  ██║██║  ██║███████╗   ██║   ╚██████╔╝███████║██║  ██║██║ ╚████║██╗
+╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝
 
+```
 [![My Skills](https://skillicons.dev/icons?i=ableton,apple,bash,discord,css,github,html,javascript,vscode,ps,pr)](https://skill-icons-builder.vercel.app/)
 
 ![Ferretosan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ferretosan&show_icons=true&theme=tokyonight&icon_color=ff79c6&outline=false)
