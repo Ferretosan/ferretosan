@@ -15,4 +15,12 @@ Australian code developer / he, him, his / Catppuccin
 
 [![My Skills](https://skillicons.dev/icons?i=apple,vscode,html,css,javascript,github,pr,ps,ableton,discord&perline=10)](https://skill-icons-builder.vercel.app/)
 
-![Ferretosan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ferretosan&show_icons=true&theme=catppuccin_mocha&icon_color=ff79c6&hide_border=true)
+![Github Stats](https://greptile-stats.vercel.app/api/widget/Ferretosan/stats)
+
+![Github Contributions](https://greptile-stats.vercel.app/api/widget/Ferretosan/contributions)
+
+![Github Highlights](https://greptile-stats.vercel.app/api/widget/Ferretosan/highlights)
+
+![Github Archetype](https://greptile-stats.vercel.app/api/widget/Ferretosan/archtype)
+
+![Github Quirk](https://greptile-stats.vercel.app/api/widget/Ferretosan/quirk)
